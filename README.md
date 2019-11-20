@@ -1,3 +1,5 @@
+![Getting Started](images/erix_logo.png)
+
 # Pabx Ip Free - Versão Nuclear
 
 # O que é
