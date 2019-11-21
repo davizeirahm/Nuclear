@@ -28,8 +28,8 @@ PbxErix Nuclear está configurado inicialmente com a mesma senha no mysql e na i
 
 **Alterando a senha de root** :
 Acesse o putty com a senha de root cadastrada na instalação e digite:
-
 mysqladmin -u root -p password **'nova-senha'**
+
 A senha padrao será solicitada digite: asterisknuclear , feito isso sua senha já foi alterada.
 
 **Alterando a senha Web**
