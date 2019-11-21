@@ -12,8 +12,8 @@ A instalação está baseado em Linux Debian, versão 9(stretch), sendo assim o 
 Alguns detalhes importantes na instalação, na tela de configuração do phpmyadmim selecione **apache** e na próxima selecione a opção **no** como mostrado abaixo.
 
 **Selecione a opção **apache****
-![Phpmyadmin apache](images/phpmyadmin01.jpg)
+![Phpmyadmin apache](images/phpmyadmin1.jpg)
 
 
 **Selecione a opção **no****
-![Phpmyadmin common](images/phpmyadmin02.jpg)
+![Phpmyadmin common](images/phpmyadmin2.jpg)
