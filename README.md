@@ -2,13 +2,13 @@
 ![Getting Started](images/erix_logo.png)
 
 # O que é
-PbxErix - Versão Nuclear é  baseado em Software Livre que tem funções simples para atendimento telefônico  de qualquer pequena, media ou grande empresa
+PbxErix - Versão Nuclear é  baseado em Software Livre com funções para atendimento telefônico para empresas de pequena, media ou grande porte.
 
 Conheça mais no site do PbxErix: www.pbxerix.com.br
 
 # Procedimentos de instalação da iso
 
-A instalação está baseado em Linux Debian, versão 9(stretch), sendo assim o procedimento é simples com algumas perguntas no decorrer da instalação como senha de root nome de usuário.
+A instalação está baseado em Linux Debian, versão 9(stretch), sendo assim o procedimento é simples com algumas perguntas no decorrer da instalação como senha de root nome de usuário, etc..
 Alguns detalhes importantes na instalação, na tela de configuração do phpmyadmim selecione **apache** e na próxima selecione a opção **no** como mostrado abaixo.
 
 **Selecione a opção **apache****
@@ -24,10 +24,12 @@ Alguns detalhes importantes na instalação, na tela de configuração do phpmya
 
 
 # Senhas
-PbxErix Nuclear está configurado inicialemnte com a mesma senha no mysql e na interface Web. A senha padrão é : **asterisknuclear** com lodas as letras minúsculas.
+PbxErix Nuclear está configurado inicialmente com a mesma senha no mysql e na interface Web. A senha padrão é : **asterisknuclear** com lodas as letras minúsculas.
 
-**Alterando a senha de root**
-Acesse o putty com a senha de root cadastrada na instalação e digite: mysqladmin -u root -p password **'nova-senha'**
+**Alterando a senha de root** :
+
+Acesse o putty com a senha de root cadastrada na instalação e digite:
+mysqladmin -u root -p password **'nova-senha'**
 A senha padrao será solicitada digite: asterisknuclear , feito isso sua senha já foi alterada.
 
 **Alterando a senha Web**
