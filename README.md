@@ -32,8 +32,8 @@ mysqladmin -u root -p password **'nova-senha'**
 A senha padrao será solicitada digite: asterisknuclear , feito isso sua senha já foi alterada.
 
 **Alterando a senha Web**  
-Acesse pelo seu navegador preferido o Ip do PbxErix, será apresentado uma tela solicitando usuário e senha, digite:  Usuário: admin  
-Senha: asterisknuclear  
+Acesse pelo seu navegador preferido o Ip do PbxErix, será apresentado uma tela solicitando usuário e senha, digite:  Usuário:**admin**  
+Senha:**asterisknuclear**  
 Logo após uma tela de redefinição de senha será apresentada, digite e confirme a nova senha que deseja utilizar.
 
 
