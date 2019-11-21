@@ -9,10 +9,11 @@ Conheça mais no site do PbxErix: www.pbxerix.com.br
 # Procedimentos de instalação da iso
 
 A instalação está baseado em Linux Debian, versão 9(stretch), sendo assim o procedimento é simples com algumas perguntas no decorrer da instalação como senha de root nome de usuário.
-Alguns detalhes importantes na instalação, na tela de configuração do phpmyadmim selecione *apache* e na próxima selecione a opção *no* como mostrado abaixo.
+Alguns detalhes importantes na instalação, na tela de configuração do phpmyadmim selecione **apache** e na próxima selecione a opção **no** como mostrado abaixo.
 
-*Selecione a opção *apache**
-![Getting Started](phpmyadmin01.jpg)
+**Selecione a opção **apache****
+![Phpmyadmin apache](phpmyadmin01.jpg)
 
-*Selecione a opção *no**
-![Getting Started](phpmyadmin02.jpg)
+
+**Selecione a opção **no****
+![Phpmyadmin common](phpmyadmin02.jpg)
