@@ -38,3 +38,12 @@ Logo após uma tela de redefinição de senha será apresentada, digite e confir
 
 
 ![Erix Login](images/login_web.jpg)
+
+**ATUALIZANDO O SOFTWARE PARA NOVA VERÃO**
+Baixe o conteudo da pasta atualizações para seu servidor e depois de os seguintes comandos:
+1 - DESCOMPACTAR:
+tar -xzf nuclear.1.0.9+asterisk.1.0.2.tar.gz -C /
+
+2  - ATUALIZAR BANDO DE DADOS
+mysql -u root -p < /var/www/nuclear_pbxerix.sql
+vai solicitar a senha após o comando, basta digitar. Senha padrão asterisknuclear ou a senha alterada.
